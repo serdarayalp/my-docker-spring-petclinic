@@ -1,4 +1,4 @@
-name: ci
+name: Docker Java Tutorial 
 
 on:
   push:
